@@ -1,0 +1,251 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "name_te": "ప్రధానమంత్రి కిసాన్ సమ్మాన్ నిధి (PM-KISAN)",
+    "name_hi": "प्रधानमंत्री किसान सम्मान निधि (PM-KISAN)",
+    "category": "Agriculture",
+    "description": "An initiative by the Government of India that provides up to ₹6,000 per year in three equal installments to all small and marginal farmers as minimum income support.",
+    "description_te": "చిన్న మరియు సన్నకారు రైతులకు కనీస ఆదాయ సహాయంగా సంవత్సరానికి ₹6,000 మూడు సమాన వాయిదాలలో అందించే భారత ప్రభుత్వ కార్యక్రమం.",
+    "description_hi": "भारत सरकार की एक पहल जो सभी छोटे और सीमांत किसानों को न्यूनतम आय सहायता के रूप में तीन समान किस्तों में प्रति वर्ष ₹6,000 तक प्रदान करती है।",
+    "benefits": "₹6,000 per year in three equal installments of ₹2,000 directly transferred to the bank accounts of farmers.",
+    "benefits_te": "రైతుల బ్యాంక్ ఖాతాలకు నేరుగా బదిలీ చేయబడే ₹2,000 చొప్పున మూడు వాయిదాలలో సంవత్సరానికి ₹6,000.",
+    "benefits_hi": "किसानों के बैंक खातों में सीधे हस्तांतरित ₹2,000 की तीन समान किस्तों में ₹6,000 प्रति वर्ष।",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": 100,
+      "gender": "Any",
+      "occupation": [
+        "Farmer"
+      ],
+      "income_max": null,
+      "state": [
+        "All"
+      ],
+      "education": "Any",
+      "disability": "Any",
+      "caste": [
+        "All"
+      ],
+      "farmer_only": true
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents (Khatauni/Patta)",
+      "Bank Account Passbook",
+      "Mobile Number linked with Aadhaar"
+    ],
+    "application_steps": [
+      "Visit the official PM-KISAN Portal (pmkisan.gov.in).",
+      "Click on 'New Farmer Registration' on the homepage.",
+      "Enter your Aadhaar number and captcha, then select your State/District.",
+      "Fill in your personal, land ownership, and bank account details.",
+      "Upload the required land papers and Aadhaar card.",
+      "Submit the application and note down the registration number for tracking."
+    ],
+    "official_link": "https://pmkisan.gov.in",
+    "deadline": "Open Year-Round",
+    "popularity": 125
+  },
+  {
+    "id": "ayushman-bharat",
+    "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "name_te": "ఆయుష్మాన్ భారత్ - ప్రధాన మంత్రి జన్ ఆరోగ్య యోజన (PM-JAY)",
+    "name_hi": "आयुष्मान भारत - प्रधानमंत्री जन आरोग्य योजना (PM-JAY)",
+    "category": "Healthcare",
+    "description": "The largest health assurance scheme in the world, aiming to provide free health cover of up to ₹5 Lakh per family per year for secondary and tertiary care hospitalization to over 12 crore poor and vulnerable families.",
+    "description_te": "ప్రపంచంలోనే అతిపెద్ద ఆరోగ్య భరోసా పథకం, 12 కోట్లకు పైగా పేద కుటుంబాలకు ద్వితీయ మరియు తృతీయ సంరక్షణ ఆసుపత్రి చికిత్స కోసం కుటుంబానికి సంవత్సరానికి ₹5 లక్షల వరకు ఉచిత ఆరోగ్య రక్షణను అందించడం దీని లక్ష్యం.",
+    "description_hi": "दुनिया की सबसे बड़ी स्वास्थ्य आश्वासन योजना, जिसका उद्देश्य 12 करोड़ से अधिक गरीब और कमजोर परिवारों को माध्यमिक और तृतीयक देखभाल अस्पताल में भर्ती के लिए प्रति परिवार प्रति वर्ष ₹5 लाख तक का मुफ्त स्वास्थ्य कवर प्रदान करना है।",
+    "benefits": "Cashless and paperless access to healthcare services of up to ₹5,00,000 per family per year in any empanelled public and private hospitals.",
+    "benefits_te": "ఏదైనా ఎంప్యానెల్ చేయబడిన ప్రభుత్వ మరియు ప్రైవేట్ ఆసుపత్రులలో కుటుంబానికి సంవత్సరానికి ₹5,00,000 వరకు ఉచిత నగదు రహిత మరియు కాగిత రహిత ఆరోగ్య సేవలు.",
+    "benefits_hi": "किसी भी सूचीबद्ध सार्वजनिक और निजी अस्पतालों में प्रति परिवार प्रति वर्ष ₹5,00,000 तक स्वास्थ्य सेवाओं के लिए कैशलेस और पेपरलेस पहुंच।",
+    "eligibility": {
+      "age_min": 0,
+      "age_max": 120,
+      "gender": "Any",
+      "occupation": [
+        "Laborer",
+        "Domestic Worker",
+        "Artisan",
+        "Unorganized sector worker",
+        "Any"
+      ],
+      "income_max": 150000,
+      "state": [
+        "All"
+      ],
+      "education": "Any",
+      "disability": "Any",
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "farmer_only": false
+    },
+    "documents": [
+      "Aadhaar Card or Voter ID Card",
+      "Ration Card (showing family details)",
+      "Income Certificate",
+      "Caste Certificate (if applicable)"
+    ],
+    "application_steps": [
+      "Visit the PM-JAY website and click on 'Am I Eligible' to check if your family is listed in the SECC database.",
+      "Alternatively, visit the nearest Ayushman Mitra at any empanelled hospital or Common Service Centre (CSC).",
+      "Verify identity using biometric authentication (Aadhaar).",
+      "Get your golden Ayushman Card printed for future cashless hospital visits."
+    ],
+    "official_link": "https://pmjay.gov.in",
+    "deadline": "Open Year-Round",
+    "popularity": 242
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "name_te": "సుకన్య సమృద్ధి యోజన (SSY)",
+    "name_hi": "सुकन्या समृद्धि योजना (SSY)",
+    "category": "Women & Child",
+    "description": "A government-backed savings scheme targeted at parents of girl children, offering high interest rates and tax savings under Section 80C to encourage education and marriage expenses of girl children.",
+    "description_te": "బాలికల విద్య మరియు వివాహ ఖర్చులను ప్రోత్సహించడానికి సెక్షన్ 80C కింద అధిక వడ్డీ రేట్లు మరియు పన్ను ఆదాను అందించే ప్రభుత్వ చిన్న పొదుపు పథకం.",
+    "description_hi": "बालिकाओं के माता-पिता को लक्षित एक सरकारी बचत योजना, जो बालिकाओं की शिक्षा और विवाह खर्चों को प्रोत्साहित करने के लिए उच्च ब्याज दरें और धारा 80C के तहत कर बचत प्रदान करती है।",
+    "benefits": "High compound interest rate (currently ~8.2%) tax-free, with complete tax exemption on investment, interest, and maturity amount.",
+    "benefits_te": "పెట్టుబడి, వడ్డీ మరియు మెచ్యూరిటీ మొత్తంపై పూర్తి పన్ను మినహాయింపుతో కూడిన అధిక చక్రవడ్డీ రేటు (ప్రస్తుతం ~8.2%).",
+    "benefits_hi": "उच्च चक्रवृद्धि ब्याज दर (वर्तमान में ~8.2%) कर-मुक्त, निवेश, ब्याज और परिपक्वता राशि पर पूर्ण कर छूट के साथ।",
+    "eligibility": {
+      "age_min": 0,
+      "age_max": 10,
+      "gender": "Female",
+      "occupation": [
+        "Student",
+        "Any"
+      ],
+      "income_max": null,
+      "state": [
+        "All"
+      ],
+      "education": "Any",
+      "disability": "Any",
+      "caste": [
+        "All"
+      ],
+      "farmer_only": false
+    },
+    "documents": [
+      "Girl Child's Birth Certificate",
+      "Parent/Guardian's Aadhaar Card",
+      "Parent/Guardian's PAN Card",
+      "Address Proof (Passport, Voter ID, Utility Bills)"
+    ],
+    "application_steps": [
+      "Download the SSY Account Opening Form from India Post or any public sector bank website.",
+      "Fill out the form with girl child and guardian details.",
+      "Submit the form along with the birth certificate and parent's KYC documents at a Post Office or authorized bank branch.",
+      "Make the initial deposit (minimum ₹250, maximum ₹1.5 Lakh per year).",
+      "Receive the passbook for the Sukanya Samriddhi account."
+    ],
+    "official_link": "https://www.indiapost.gov.in",
+    "deadline": "Open Year-Round",
+    "popularity": 190
+  },
+  {
+    "id": "pm-mudra",
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "name_te": "ప్రధాన మంత్రి ముద్ర యోజన (PMMY)",
+    "name_hi": "प्रधानमंत्री मुद्रा योजना (PMMY)",
+    "category": "Finance",
+    "description": "Provides collateral-free loans up to ₹10 Lakh to micro and small enterprises for non-corporate, non-farm activities. The loans are categorized as Shishu (up to ₹50,000), Kishor (up to ₹5 Lakh), and Tarun (up to ₹10 Lakh).",
+    "description_te": "కార్పొరేట్ కాని, వ్యవసాయేతర కార్యకలాపాల కోసం సూక్ష్మ మరియు చిన్న పరిశ్రమలకు ₹10 లక్షల వరకు పూచీకత్తు లేని రుణాలను అందిస్తుంది. ఈ రుణాలు శిశు (₹50,000 వరకు), కిశోర్ (₹5 లక్షల వరకు) మరియు తరుణ్ (₹10 లక్షల వరకు) వర్గాలుగా ఉన్నాయి.",
+    "description_hi": "गैर-कॉर्पोरेट, गैर-कृषि गतिविधियों के लिए सूक्ष्म और लघु उद्यमों को ₹10 लाख तक का संपार्श्विक-मुक्त ऋण प्रदान करता है। ऋणों को शिशु (₹50,000 तक), किशोर (₹5 लाख तक) और तरुण (₹10 लाख तक) के रूप में वर्गीकृत किया गया है।",
+    "benefits": "Collateral-free business loans between ₹50,000 and ₹10,000,000 for starting or expanding micro-businesses.",
+    "benefits_te": "సూక్ష్మ వ్యాపారాలను ప్రారంభించడానికి లేదా విస్తరించడానికి ₹50,000 మరియు ₹10,00,000 మధ్య పూచీకత్తు లేని వ్యాపార రుణాలు.",
+    "benefits_hi": "सूक्ष्म व्यवसायों को शुरू करने या विस्तारित करने के लिए ₹50,000 और ₹10,00,000 के बीच संपार्श्विक-मुक्त व्यावसायिक ऋण।",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": 65,
+      "gender": "Any",
+      "occupation": [
+        "Self-Employed",
+        "Business Owner",
+        "Artisan",
+        "Any"
+      ],
+      "income_max": null,
+      "state": [
+        "All"
+      ],
+      "education": "Any",
+      "disability": "Any",
+      "caste": [
+        "All"
+      ],
+      "farmer_only": false
+    },
+    "documents": [
+      "Aadhaar Card / Voter ID / Passport",
+      "Business Address Proof",
+      "Quotations of machinery or items to be purchased",
+      "Passport size photos of the applicant",
+      "Caste Certificate (if claiming special bank rates)"
+    ],
+    "application_steps": [
+      "Select a bank, NBFC, or Micro Finance Institution (MFI) that offers Mudra loans.",
+      "Download the appropriate application form (Shishu, Kishor, or Tarun) from mudra.org.in or the bank website.",
+      "Fill out the application and gather quotes for the products you want to buy.",
+      "Submit the documents to the bank manager.",
+      "Upon review of the business plan and eligibility, the loan will be sanctioned and a Mudra Card (Debit Card) will be issued."
+    ],
+    "official_link": "https://www.mudra.org.in",
+    "deadline": "Open Year-Round",
+    "popularity": 155
+  },
+  {
+    "id": "pm-awas-yojana",
+    "name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+    "name_te": "ప్రధాన మంత్రి ఆవాస్ యోజన - అర్బన్ (PMAY-U)",
+    "name_hi": "प्रधानमंत्री आवास योजना - शहरी (PMAY-U)",
+    "category": "Housing",
+    "description": "An initiative of the Government of India that aims to provide affordable housing for the urban poor, targeting the construction of over 1 crore affordable houses with water, sanitation, and electricity connections.",
+    "description_te": "పట్టణ పేదలకు సరసమైన గృహాలను అందించాలనే లక్ష్యంతో నీరు, పారిశుధ్యం మరియు విద్యుత్ కనెక్షన్లతో కూడిన 1 కోటికి పైగా సరసమైన ఇళ్ల నిర్మాణాన్ని లక్ష్యంగా పెట్టుకున్న భారత ప్రభుత్వ కార్యక్రమం.",
+    "description_hi": "भारत सरकार की एक पहल जिसका उद्देश्य शहरी गरीबों को किफायती आवास प्रदान करना है, जिसमें पानी, स्वच्छता और बिजली कनेक्शन के साथ 1 करोड़ से अधिक किफायती घरों के निर्माण का लक्ष्य रखा गया है।",
+    "benefits": "Interest subsidy of up to 6.5% on housing loans for Economically Weaker Sections (EWS), Lower Income Groups (LIG), and Middle Income Groups (MIG). Direct financial aid for building homes.",
+    "benefits_te": "ఆర్థికంగా వెనుకబడిన వర్గాలకు (EWS), అల్ప ఆదాయ వర్గాలకు (LIG) మరియు మధ్య ఆదాయ వర్గాలకు (MIG) గృహ రుణాలపై 6.5% వరకు వడ్డీ సబ్సిడీ. ఇళ్ల నిర్మాణానికి ప్రత్యక్ష ఆర్థిక సహాయం.",
+    "benefits_hi": "आर्थिक रूप से कमजोर वर्गों (EWS), निम्न आय समूहों (LIG), और मध्यम आय समूहों (MIG) के लिए आवास ऋण पर 6.5% तक का ब्याज अनुदान। घरों के निर्माण के लिए प्रत्यक्ष वित्तीय सहायता।",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": 75,
+      "gender": "Any",
+      "occupation": [
+        "Any"
+      ],
+      "income_max": 600000,
+      "state": [
+        "All"
+      ],
+      "education": "Any",
+      "disability": "Any",
+      "caste": [
+        "All"
+      ],
+      "farmer_only": false
+    },
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate or Salary Slips",
+      "Affidavit stating that the applicant does not own any pucca house in India",
+      "Bank Account Details",
+      "Address Proof"
+    ],
+    "application_steps": [
+      "Visit the PMAY-U official website (pmaymis.gov.in).",
+      "Under 'Citizen Assessment', choose the appropriate category (e.g., Benefit under 3 Components or Slum Dwellers).",
+      "Enter Aadhaar number and detail verification.",
+      "Fill out the comprehensive application form, specifying bank details and family annual income.",
+      "Save the details, enter Captcha, and click submit.",
+      "Track your application using the generated Assessment ID."
+    ],
+    "official_link": "https://pmaymis.gov.in",
+    "deadline": "2026-12-31",
+    "popularity": 212
+  }
+]

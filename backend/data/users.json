@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1783682557212",
+    "name": "Anirudh",
+    "email": "anirudhlola@gmail.com",
+    "password": "$2a$10$ohVnp36WNgADZcihhBEajeRxXaEM8rkrlhZH4me2R1sNIpB7PYuU.",
+    "profile": {
+      "age": 19,
+      "gender": "Male",
+      "occupation": "Student",
+      "income": 100000,
+      "state": "Telangana",
+      "education": "Any",
+      "disability": false,
+      "caste": "General",
+      "isFarmer": false
+    },
+    "favorites": [],
+    "recentlyViewed": []
+  }
+]
